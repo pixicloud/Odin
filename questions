@@ -1,0 +1,12 @@
+#this first line where the three dots are the dots can be used as any word
+... = input('...?')
+#then if u want to print what u had as an input do this
+print (...)
+# again the dots are maybe age or name or anything but remember all the dots have to be the same thing
+# maybe u want it to say your name and age then ignore above and copy this script
+Name = input('Name?')
+Age = input('Age?')
+a = (Name)
+b = ('is')
+c = (Age)
+print (a, b, c)
